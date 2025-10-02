@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/9742ff1a68f1ea71eb11ffb95071f7b3/cd75fb9d678138f9-6b/s1280x1920/4cbf30b029646ee8027222031341a08972aa9e19.pnj" />
 </p>
-
-###
+<p align="center">
 ░█──░█ ░█▀▀▀ ░█─── ░█▀▀█ ░█▀▀▀█ ░█▀▄▀█ ░█▀▀▀ 
 ░█░█░█ ░█▀▀▀ ░█─── ░█─── ░█──░█ ░█░█░█ ░█▀▀▀ 
 ░█▄▀▄█ ░█▄▄▄ ░█▄▄█ ░█▄▄█ ░█▄▄▄█ ░█──░█ ░█▄▄▄
-
+</p>
 <h1 align="center">I'm Kaniza Kasfia</h1>
 
 <p align="center">
