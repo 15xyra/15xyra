@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello%20world!%20I'm%20Kaniza%20Kasfia&fontColor=642B18FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello%20world!%20I'm%20Kaniza%20Kasfia&fontColor=642B18FF&fontSize=60" />
 </p>
 
 <p align="center">
