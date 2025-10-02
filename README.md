@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&pause=1000&color=642B18&width=435&lines=Let's+Build+%E2%9F%A1+)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&pause=1000&color=642B18&width=435&lines=Let's+Build+%E2%9F%A1+" />
 </p>
 
 ---
