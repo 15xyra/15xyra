@@ -39,17 +39,17 @@
 
 | 🌟 Project | 💖 What it does |
 |-----------|-----------------|
-| [🌼 Flutter-CutieApp](https://github.com/15xyra/Flutter-CutieApp) | My first Flutter app with animations and pastel vibes |
-| [🎨 UI-Design-Kit](https://github.com/15xyra/UI-Design-Kit) | Pastel UI widgets for Flutter (WIP) |
-| [🌈 Firebase-Login-Cute](https://github.com/15xyra/Firebase-Login-Cute) | Adorable login screen using Firebase Auth & Flutter UI |
+| [🌼 Flutter-CutieApp](https://github.com/YOUR_USERNAME/Flutter-CutieApp) | My first Flutter app with animations and pastel vibes |
+| [🎨 UI-Design-Kit](https://github.com/YOUR_USERNAME/UI-Design-Kit) | Pastel UI widgets for Flutter (WIP) |
+| [🌈 Firebase-Login-Cute](https://github.com/YOUR_USERNAME/Firebase-Login-Cute) | Adorable login screen using Firebase Auth & Flutter UI |
 
 ---
 
 ## ✨ GitHub Stats (with sage + pink!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=15xyra&show_icons=true&theme=vue-dark&icon_color=A8CBB7&title_color=A8CBB7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15xyra&layout=compact&theme=vue-dark&title_color=FFC0CB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&icon_color=A8CBB7&title_color=A8CBB7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vue-dark&title_color=FFC0CB" width="48%" />
 </p>
 
 ---
@@ -69,4 +69,5 @@
 </p>
 
 <p align="center"><b>🌟 Thanks for visiting! Stay cute & keep coding~ 💻🍓</b></p>
+
 
