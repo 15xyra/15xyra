@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&size=60&pause=1000&color=642B18&center=true&width=510&height=110&lines=Let's+Build+%E2%9F%A1+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&size=60&pause=1000&color=642B18&center=true&width=510&height=200&lines=Let's+Build+%E2%9F%A1+" />
 </p>
 
 <p align="center">
