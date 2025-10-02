@@ -13,6 +13,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lugrasimo&size=30&pause=1000&color=642B18&center=true&width=435&lines=Let's+Build+%E2%9F%A1+" />
 </p>
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/843b566975f722b67f8a2e3e09897a6c/947b084b65e5dc24-d0/s1280x1920/bff502bea71d29a6d99d8254a99fc6e31b8bb84d.pnj" />
+</p>
+
+
 
 ### 🧁 I'm currently building  
 **my first Flutter app!**
