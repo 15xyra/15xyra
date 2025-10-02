@@ -1,21 +1,6 @@
-<!-- 🌿🌸 Soft Banner -->
-<style>
-  body {
-    background-image: url('https://stickershop.line-scdn.net/sticonshop/v1/sticon/60a6025638d2b971e09ea68f/iPhone/011.png?v=2'); /* Replace with your image path */
-    background-repeat: no-repeat; /* Prevents image from repeating */
-    background-size: cover; /* Scales image to cover the entire element */
-    background-position: center; /* Centers the image */
-  }
 
-  /* Example for a specific div */
-  .my-div {
-    background-image: url('another-image.png');
-    background-repeat: repeat-x; /* Repeats horizontally */
-    height: 200px; /* Example height for the div */
-  }
-</style>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a8cbb7,ffc0cb&height=200&section=header&text=Welcome%20to%20My%20Cute%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://64.media.tumblr.com/9742ff1a68f1ea71eb11ffb95071f7b3/cd75fb9d678138f9-6b/s1280x1920/4cbf30b029646ee8027222031341a08972aa9e19.pnj" />
 </p>
 
 <h1 align="center">🌸 Hello, I'm Kaniza Kasfia! 💖</h1>
