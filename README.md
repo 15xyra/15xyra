@@ -78,6 +78,7 @@ with **Pastel Vibes** 🌿🌸
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb,a8cbb7&height=100&section=footer" />
+    <img src="https://stickershop.line-scdn.net/sticonshop/v1/sticon/60a6025638d2b971e09ea68f/iPhone/011.png?v=2" />
 </p>
 
 <p align="center"><b>🍓 Thanks for visiting! Stay soft, stay creative 💻🎀</b></p>
