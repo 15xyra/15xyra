@@ -4,6 +4,9 @@
 </p>
 
 <h1 align="center">🌸 Hello, I'm Kaniza Kasfia! 💖</h1>
+<p align="center">
+  <img src="https://64.media.tumblr.com/bb39fb29f7bcda8bd7df09b4462b64b8/c5e72004555ab9d2-09/s1280x1920/1a889c668446e15022bb827a8acaea2a5373ce4b.pnj" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Bubblegum+Sans&size=24&pause=1000&color=A8CBB7&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%8C%8A;Pixel+Art+Lover+%F0%9F%96%8C%EF%B8%8F;UI+Design+with+Pastel+Vibes+%F0%9F%92%9C;Let's+build+something+cute~+%F0%9F%A4%A9" alt="Typing SVG" />
