@@ -43,14 +43,13 @@ with **Pastel Vibes** 🌿🌸
 ### 🎀 Tech Toybox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,figma,html,css,javascript,vscode&theme=transparent " />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,figma,html,css,javascript,vscode&theme=dark" />
 </p>
 
 🧋 Flutter & Dart  
 🖌️ Figma for UI  
-💛 Firebase Auth  
 💻 VS Code  
-🧁 Git + GitHub
+GitHub
 
 ---
 
