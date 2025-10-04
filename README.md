@@ -43,7 +43,7 @@ with **Pastel Vibes** 🌿🌸
 ### 🎀 Tech Toybox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,figma,html,css,javascript,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,figma,html,css,javascript,vscode&theme=transparent " />
 </p>
 
 🧋 Flutter & Dart  
