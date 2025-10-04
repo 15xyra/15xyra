@@ -43,7 +43,7 @@ with **Pastel Vibes** 🌿🌸
 ### 🎀 Tech Toybox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,figma,html5,css3,javascript,vscode&theme=light" />
 </p>
 
 🧋 Flutter & Dart  
@@ -62,8 +62,6 @@ with **Pastel Vibes** 🌿🌸
 - **[UI-Design-Kit](https://github.com/kanizadev/UI-Design-Kit)**  
   Soft + rounded Flutter widgets 🎀
 
-- **[Firebase-Login-Cute](https://github.com/kanizadev/Firebase-Login-Cute)**  
-  Kawaii login screen using Firebase 💞
 
 ---
 
